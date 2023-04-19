@@ -1,0 +1,13 @@
+body {
+    background-color: black;
+    color: white;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+section.basicInfo {
+    border: 1px;
+    border-color: blueviolet;
+    border-style: groove;
+    flex-flow: wrap;
+    align-content: center;
+}
